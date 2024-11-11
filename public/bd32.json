@@ -1164,5 +1164,38 @@
     "album": "Holy Fire",
     "numero_de_pista": "7/7",
     "Año": "2013"
+  },
+  {
+    "archivo_musica": "Albums/198274578_1.flac",
+    "descripcion": "198274578",
+    "imagen": "Albums/198274578.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Defiant",
+    "artista": "Feint & Laura Brehm",
+    "album": "Defiant",
+    "numero_de_pista": "1/3",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274578_2.flac",
+    "descripcion": "198274578",
+    "imagen": "Albums/198274578.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Whatever I Do (Feint Remix)",
+    "artista": "Cartoon, Jéja, Feint & Kóstja",
+    "album": "Defiant",
+    "numero_de_pista": "2/3",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274578_3.flac",
+    "descripcion": "198274578",
+    "imagen": "Albums/198274578.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Take It In (Instrumental)",
+    "artista": "Feint",
+    "album": "Defiant",
+    "numero_de_pista": "3/3",
+    "Año": "2018"
   }
 ]
