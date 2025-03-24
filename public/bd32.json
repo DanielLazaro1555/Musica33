@@ -975,7 +975,7 @@
     "titulo": "Prelude",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "1/11",
+    "numero_de_pista": "1/18",
     "Año": "2013"
   },
   {
@@ -986,8 +986,8 @@
     "titulo": "Inhaler",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "2/11",
-    "Año": "2013"
+    "numero_de_pista": "2/18",
+    "Año": "2012"
   },
   {
     "archivo_musica": "Albums/198274576_3.flac",
@@ -997,8 +997,8 @@
     "titulo": "My Number",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "3/11",
-    "Año": "2013"
+    "numero_de_pista": "3/18",
+    "Año": "2012"
   },
   {
     "archivo_musica": "Albums/198274576_4.flac",
@@ -1008,7 +1008,7 @@
     "titulo": "Bad Habit",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "4/11",
+    "numero_de_pista": "4/18",
     "Año": "2013"
   },
   {
@@ -1019,7 +1019,7 @@
     "titulo": "Everytime",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "5/11",
+    "numero_de_pista": "5/18",
     "Año": "2013"
   },
   {
@@ -1030,7 +1030,7 @@
     "titulo": "Late Night",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "6/11",
+    "numero_de_pista": "6/18",
     "Año": "2013"
   },
   {
@@ -1041,7 +1041,7 @@
     "titulo": "Out of the Woods",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "7/11",
+    "numero_de_pista": "7/18",
     "Año": "2013"
   },
   {
@@ -1052,7 +1052,7 @@
     "titulo": "Milk & Black Spiders",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "8/11",
+    "numero_de_pista": "8/18",
     "Año": "2013"
   },
   {
@@ -1063,7 +1063,7 @@
     "titulo": "Providence",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "9/11",
+    "numero_de_pista": "9/18",
     "Año": "2013"
   },
   {
@@ -1074,7 +1074,7 @@
     "titulo": "Stepson",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "10/11",
+    "numero_de_pista": "10/18",
     "Año": "2013"
   },
   {
@@ -1085,84 +1085,84 @@
     "titulo": "Moon",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "11/11",
+    "numero_de_pista": "11/18",
     "Año": "2013"
   },
   {
-    "archivo_musica": "Albums/198274577_1.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_12.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Bluebird (B-Side)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "1/7",
-    "Año": "2013"
+    "numero_de_pista": "12/18",
+    "Año": "2012"
   },
   {
-    "archivo_musica": "Albums/198274577_2.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_13.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Milk & Black Spiders (CCTV Sessions)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "2/7",
+    "numero_de_pista": "13/18",
     "Año": "2013"
   },
   {
-    "archivo_musica": "Albums/198274577_3.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_14.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Bad Habit (CCTV Sessions)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "3/7",
+    "numero_de_pista": "14/18",
     "Año": "2013"
   },
   {
-    "archivo_musica": "Albums/198274577_4.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_15.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Stepson (CCTV Sessions)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "4/7",
+    "numero_de_pista": "15/18",
     "Año": "2013"
   },
   {
-    "archivo_musica": "Albums/198274577_5.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_16.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Late Night (CCTV Sessions)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "5/7",
+    "numero_de_pista": "16/18",
     "Año": "2013"
   },
   {
-    "archivo_musica": "Albums/198274577_6.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_17.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Bluebird (CCTV Sessions)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "6/7",
+    "numero_de_pista": "17/18",
     "Año": "2013"
   },
   {
-    "archivo_musica": "Albums/198274577_7.flac",
-    "descripcion": "198274577",
-    "imagen": "Albums/198274577.jpg",
+    "archivo_musica": "Albums/198274576_18.flac",
+    "descripcion": "198274576",
+    "imagen": "Albums/198274576.jpg",
     "genero": "Alternative Rock",
     "titulo": "Moon (CCTV Sessions)",
     "artista": "Foals",
     "album": "Holy Fire",
-    "numero_de_pista": "7/7",
+    "numero_de_pista": "18/18",
     "Año": "2013"
   },
   {
